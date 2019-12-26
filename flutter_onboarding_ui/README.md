@@ -4,5 +4,5 @@ An example of an Onboarding Screen UI for Flutter
 
 
 <p align="center">
-  <img src="https://i.imgur.com/qK4Fn5h.gif" alt="none"/>
+  <img src="https://i.imgur.com/Lcvw99u.gif">
 </p>
