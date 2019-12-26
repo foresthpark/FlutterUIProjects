@@ -2,4 +2,4 @@
 
 An example of an Onboarding Screen UI for Flutter
 
-![image](https://imgur.com/Lcvw99u.gif)
+<img align="center" src="https://i.imgur.com/qK4Fn5h.gif" alt="none">
